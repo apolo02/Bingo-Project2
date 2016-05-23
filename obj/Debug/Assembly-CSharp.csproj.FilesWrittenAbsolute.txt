@@ -1,0 +1,17 @@
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/apolo02/Bingo Project2/obj/Debug/Assembly-CSharp.dll
+/Users/apolo02/Bingo Project2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/UnityEngine.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/UnityEditor.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/apolo02/Bingo Project2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
